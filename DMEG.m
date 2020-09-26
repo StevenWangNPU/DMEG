@@ -55,21 +55,7 @@ for iter = 1:maxiter
     end
     pre_S = S1;
     OBJ(iter) = sum(obj);
-% %   Calculate objective function value
-%     for i=1:length(c)
-%     Xc{i} = X(:,Y==i); 
-%     nc(i) = size(Xc{i},2);
-%     Xi = Xc{i};
-%     ni = nc(i);
-%     distXi1 = L2_distance_1(WW1*Xi,WW1*Xi);
-%     obj(i) = sum(sum(distXi1.*SS{i})) + lambda * sum(SS{i}(SS{i}~=0).*log(SS{i}(SS{i}~=0)));
-% %   obj(i) = sum(sum(distXi.*SS{i}));
-%     end
-%     OBJ(iter) = sum(obj);
-%     S2 = [S2,S1];
-%     if 1 < iter && OBJ(iSter-1) < OBJ(iter) && iter < maxiter
-%         disp(['Error: Algorithm does not reach convergence!!!','this is ', num2str(iter) ,' iteration'])
-%     end
+
 end 
 
 
