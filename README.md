@@ -1,2 +1,2 @@
 # DMEG
-Matlab code for DMEG PR2020
+Matlab code for DMEG, Pattern Recognition 2020
