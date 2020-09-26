@@ -1,2 +1,2 @@
 # DMEG
-code for DMEG PR2020
+Matlab code for DMEG PR2020
