@@ -1,4 +1,14 @@
-# DMEG
-Matlab code for DMEG, Pattern Recognition 2020
+# DMEG: Local Structure Feature Learning with Dynamic Maximum Entropy Graph, Pattern Recognition, 2021.
 
-Please cite this work as: Zheng Wang, Feiping Nie, Rong Wang, Hui Yang, and Xuelong Li, Local Structure Feature Learning with Dynamic Maximum Entropy Graph, Pattern Recognition, dio: 10.1016/j.patcog.2020.107673, 2020.
+Please cite this work via: 
+
+@article{wang2021local,
+  title={Local structured feature learning with dynamic maximum entropy graph},
+  author={Wang, Zheng and Nie, Feiping and Wang, Rong and Yang, Hui and Li, Xuelong},
+  journal={Pattern Recognition},
+  volume={111},
+  pages={107673},
+  year={2021},
+  publisher={Elsevier}
+}
+
